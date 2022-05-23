@@ -1,0 +1,16 @@
+#sv1
+name:Luom
+old:19
+mark:9
+#sv2
+name:Tu
+old:12
+mark:8
+#tc1
+name:Huy
+old:21
+salary:8
+#tc2
+name:Bia
+old:21
+salary:9
